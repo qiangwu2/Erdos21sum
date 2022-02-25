@@ -1,3 +1,3 @@
 # Jupyter Notebooks in Progress
 
-description of this folder
+Summer project in Erdos-institute for predicting stock market price
